@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.baizhi.mapper.UserMapper">
+
+
+    <insert id="insert" parameterType="User">
+        insert into cmfz.user values (#{id},#{name},#{sex},#{province},#{create_Date},#{img},#{username},#{password})
+    </insert>
+    <update id="update">
+        update cmfz.user set
+        <trim suffixOverrides=",">
+            <if test="name!=null">name=#{name},</if>
+            <if test="sex!=null">sex=#{sex},</if>
+            <if test="province!=null">province=#{province},</if>
+            <if test="create_Date!=null">create_Date=#{create_Date},</if>
+            <if test="img!=null">img=#{img},</if>
+            <if test="username!=null">username=#{username},</if>
+            <if test="password!=null">password=#{password},</if>
+        </trim>
+        where id=#{id}
+    </update>
+    <delete id="delete">
+        delete from cmfz.user where id in
+        <foreach collection="array" open="(" separator="," close=")" item="id">
+            #{id}
+        </foreach>
+    </delete>
+
+    <select id="queryAll" resultType="User">
+        select * from cmfz.user LIMIT #{start},#{rows}
+    </select>
+    <select id="count" resultType="java.lang.Integer">
+        select count(id) from cmfz.user
+    </select>
+
+    <select id="queryUserByTime" resultType="Integer">
+        select count(*) from user where sex = #{sex} and DATE_SUB(NOW(),INTERVAL #{day} day) &lt; create_Date
+    </select>
+
+    <select id="getCountByprovince" resultType="com.baizhi.entity.User">
+        select province name ,count(id) `value` from  `user` group by province
+    </select>
+
+    <select id="queryId" resultType="User">
+        select * from user where id=#{id}
+    </select>
+</mapper>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.baizhi.mapper.ArticleMapper">
+    <select id="queryAll" resultType="Article">
+        select id,title,content,createDate,author,status
+        from article limit #{start},#{rows}
+    </select>
+    <select id="getCount" resultType="Integer">
+        select count(id) from article
+    </select>
+
+    <insert id="add">
+        insert into article values (#{id},#{title},#{content},#{createDate},#{author},#{status});
+    </insert>
+
+    <update id="update">
+        update article set
+        <trim suffixOverrides=",">
+            <if test="title!=null">title=#{title},</if>
+            <if test="content!=null">content=#{content},</if>
+            <if test="createDate!=null">createDate=#{createDate},</if>
+            <if test="author!=null">author=#{author},</if>
+            <if test="status!=null">status=#{status},</if>
+        </trim>
+        where id=#{id}
+    </update>
+
+    <delete id="delete">
+        delete from article where id in
+        <foreach collection="array" open="(" separator="," close=")" item="id">
+            #{id}
+        </foreach>
+    </delete>
+
+</mapper>

@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/cmfz/src/main/webapp/main/banner.jsp" line="24" />
+    <bookmark url="file://$PROJECT_DIR$/cmfz/src/main/webapp/main/banner.jsp" line="17" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08fc6bb4-f75d-48fc-82c0-e7efc642f971" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cmfz/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mysql" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mysql" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mysql" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cmfz: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="mapper" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cmfz/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/mapper/AlbumMapper.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/serviceImpl/AlbumServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/resources/mapper/ChapterMapper.xml" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/service/ChapterService.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/serviceImpl/ChapterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/resources/mapper/AlbumMapper.xml" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/ArticleRepsitory/ElasticsearchCrudRepository.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/mapper/ArticleMapper.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/service/ArticleService.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/serviceImpl/ArticleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cmfz/pom.xml" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/entity/Album.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/entity/Chapter.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/CmfzApplication.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/ArticleRepsitory/ArticleRepsitory.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/entity/Article.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/resources/mapper/ArticleMapper.xml" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/service/BannerService.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/BannerController.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/serviceImpl/BannerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/entity/Banner.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/entity/UserMapper.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/DTO/UserDTO.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/entity/EchartsMap.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/service/UserService.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/serviceImpl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/EchartsController.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/webapp/main/goeasy.jsp" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/webapp/main/echarts.jsp" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/webapp/main/echartsMap.jsp" />
+        <option value="$PROJECT_DIR$/cmfz/src/test/java/com/baizhi/CmfzApplicationTests.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/webapp/main/main.jsp" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/entity/User.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/webapp/main/banner.jsp" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/webapp/main/user.jsp" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/mapper/BannerMapper.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/resources/mapper/BannerMapper.xml" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/TaskController.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/mapper/ChapterMapper.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/ChapterController.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/OnePageController.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/NCController.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/webapp/main/article.jsp" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/webapp/main/album.jsp" />
+        <option value="$PROJECT_DIR$/cmfz/src/test/java/com/baizhi/Test.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/AlbumController.java" />
+        <option value="$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/ArticleController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\m2" />
+        <option name="mavenHome" value="F:/Maven/maven/apache-maven-3.5.3-bin/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="F:\Maven\maven\apache-maven-3.5.3-bin\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cmfz" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cmfz" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cmfz" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cmfz" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="spring-boot" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="867" />
+    <option name="y" value="7" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="baizhi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="baizhi" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578390005985" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.sjhy.plugin.ui.TypeMapperSetting" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.baizhi.serviceImpl" />
+      <recent name="com.baizhi.ArticleRepsitory" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\untitled\cmfz\cmfz\src\main\webapp\main" />
+      <recent name="D:\untitled\cmfz\cmfz\src\main\java\com\baizhi\entity" />
+      <recent name="D:\untitled\cmfz\cmfz\src\main\java\com\baizhi" />
+      <recent name="D:\untitled\cmfz\cmfz\src\main\java\com\baizhi\controller" />
+      <recent name="D:\untitled\cmfz\cmfz\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.baizhi.controller" />
+      <recent name="com.baizhi.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\untitled\cmfz\cmfz\src\main\webapp" />
+      <recent name="D:\untitled\cmfz\cmfz\src\main\webapp\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Test.testSms">
+    <configuration name="CmfzApplicationTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cmfz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.CmfzApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmfzApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cmfz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.CmfzApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmfzApplicationTests.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cmfz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.CmfzApplicationTests" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cmfz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.Test" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.testSms" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cmfz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.Test" />
+      <option name="METHOD_NAME" value="testSms" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmfzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cmfz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baizhi.CmfzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test.testSms" />
+        <item itemvalue="JUnit.Test.name" />
+        <item itemvalue="JUnit.CmfzApplicationTests (1)" />
+        <item itemvalue="JUnit.CmfzApplicationTests" />
+        <item itemvalue="JUnit.CmfzApplicationTests.name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08fc6bb4-f75d-48fc-82c0-e7efc642f971" name="Default Changelist" comment="" />
+      <created>1577266836692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577266836692</updated>
+      <workItem from="1577266838038" duration="274000" />
+      <workItem from="1577267303012" duration="9753000" />
+      <workItem from="1577281331084" duration="212000" />
+      <workItem from="1577320428194" duration="28038000" />
+      <workItem from="1577358252083" duration="1000000" />
+      <workItem from="1577359683362" duration="1235000" />
+      <workItem from="1577361109440" duration="3968000" />
+      <workItem from="1577368424428" duration="247000" />
+      <workItem from="1577407350693" duration="11978000" />
+      <workItem from="1577428973916" duration="2053000" />
+      <workItem from="1577431565168" duration="9745000" />
+      <workItem from="1577443890682" duration="5247000" />
+      <workItem from="1577588409122" duration="1594000" />
+      <workItem from="1577669521660" duration="567000" />
+      <workItem from="1577670875840" duration="17350000" />
+      <workItem from="1577695502385" duration="2955000" />
+      <workItem from="1577707088264" duration="93000" />
+      <workItem from="1577707206658" duration="107000" />
+      <workItem from="1577707346186" duration="1579000" />
+      <workItem from="1577754101298" duration="14578000" />
+      <workItem from="1577926640448" duration="14500000" />
+      <workItem from="1578012259242" duration="6773000" />
+      <workItem from="1578032016639" duration="3354000" />
+      <workItem from="1578035987475" duration="7435000" />
+      <workItem from="1578043545817" duration="3995000" />
+      <workItem from="1578048277959" duration="3520000" />
+      <workItem from="1578051838315" duration="3618000" />
+      <workItem from="1578055951008" duration="1074000" />
+      <workItem from="1578188240912" duration="40000" />
+      <workItem from="1578188491503" duration="72000" />
+      <workItem from="1578188934144" duration="23000" />
+      <workItem from="1578189030934" duration="21000" />
+      <workItem from="1578189256210" duration="11942000" />
+      <workItem from="1578271576892" duration="7613000" />
+      <workItem from="1578298837995" duration="11763000" />
+      <workItem from="1578357603473" duration="12737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_testSms - 2020.01.06 at 16h 21m 11s.xml">
+      <configuration name="Test.testSms" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSms - 2020.01.07 at 10h 04m 22s.xml">
+      <configuration name="Test.testSms" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSms - 2020.01.07 at 10h 04m 50s.xml">
+      <configuration name="Test.testSms" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSms - 2020.01.07 at 10h 05m 04s.xml">
+      <configuration name="Test.testSms" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSms - 2020.01.07 at 10h 07m 26s.xml">
+      <configuration name="Test.testSms" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSms - 2020.01.07 at 10h 08m 47s.xml">
+      <configuration name="Test.testSms" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSms - 2020.01.07 at 10h 10m 50s.xml">
+      <configuration name="Test.testSms" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSms - 2020.01.07 at 14h 21m 58s.xml">
+      <configuration name="Test.testSms" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSms - 2020.01.07 at 14h 33m 09s.xml">
+      <configuration name="Test.testSms" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testSms - 2020.01.07 at 14h 33m 51s.xml">
+      <configuration name="Test.testSms" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="201053000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19369973" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.54314005" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32956153" />
+      <window_info anchor="bottom" id="Duplicate detector" order="16" weight="0.32956153" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.15281501" />
+      <window_info anchor="right" id="Database" order="5" weight="0.61461127" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19369973" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.446959" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32956153" />
+      <window_info anchor="bottom" id="Duplicate detector" order="16" weight="0.32956153" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.15281501" />
+      <window_info anchor="right" id="Database" order="5" weight="0.61461127" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/mapper/AlbumMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/resources/mapper/AlbumMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/resources/mapper/ArticleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/reflection/Reflector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="418" selection-start-line="418" selection-end-line="418" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/webapp/echarts/echarts.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="180" selection-start-column="180" selection-end-column="180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/entity/EchartsMap.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/webapp/echarts/china.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4488" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/webapp/login/assets/js/jquery-1.11.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/webapp/boot/js/jquery-2.2.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/webapp/boot/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/test/java/com/baizhi/CmfzApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/serviceImpl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/EchartsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/Kindeditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/util/CodeAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/resources/mapper/AdminMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/mapper/AdminMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/serviceImpl/AdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/TaskController.java" />
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/ChapterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="137" column="3" selection-start-line="137" selection-start-column="3" selection-end-line="137" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/mapper/ChapterMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/OnePageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/NCController.java" />
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/resources/mapper/BannerMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/service/BannerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/mapper/BannerMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="116" column="48" lean-forward="true" selection-start-line="116" selection-start-column="48" selection-end-line="116" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/webapp/main/article.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/webapp/main/banner.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/webapp/main/echarts.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/webapp/main/echartsMap.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/webapp/main/goeasy.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/webapp/main/user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="59" column="14" lean-forward="true" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/webapp/main/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="64" column="33" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/test/java/com/baizhi/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/BannerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/serviceImpl/BannerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/entity/Banner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/webapp/main/album.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/DTO/UserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/entity/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/AlbumController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/ArticleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-421">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz/src/main/java/com/baizhi/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
